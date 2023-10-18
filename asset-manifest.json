@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/ar-app/static/css/main.85da9391.css",
-    "main.js": "/ar-app/static/js/main.559758af.js",
+    "main.css": "/ar-app/static/css/main.3a0d2445.css",
+    "main.js": "/ar-app/static/js/main.b712221c.js",
     "static/media/404.svg": "/ar-app/static/media/404.7a71fa7061d15b7ff20a584ffca78ce5.svg",
+    "static/media/icons-google.svg": "/ar-app/static/media/icons-google.b40778ce9db962e9de29649090e3d307.svg",
     "index.html": "/ar-app/index.html",
     "static/media/icon-reminders.svg": "/ar-app/static/media/icon-reminders.d573f5028c4469edf76a0b57065af566.svg",
     "static/media/icon-planning.svg": "/ar-app/static/media/icon-planning.7264cc64a81fa348da1d23defa87d2b5.svg",
     "static/media/icon-calendar.svg": "/ar-app/static/media/icon-calendar.238c231afbc7d43b81c625ceea0d1b37.svg",
     "static/media/icon-todo.svg": "/ar-app/static/media/icon-todo.84eeba8f3b9a1811c1ea3d7420dcfd98.svg",
-    "static/media/icon-close-menu.svg": "/ar-app/static/media/icon-close-menu.3f33fd68b142340b7eb8.svg",
-    "static/media/icon-menu.svg": "/ar-app/static/media/icon-menu.863803c904916606b7a1.svg",
+    "static/media/icon-close-menu.svg": "/ar-app/static/media/icon-close-menu.db81c104cee6fcd2a749.svg",
+    "static/media/icon-menu.svg": "/ar-app/static/media/icon-menu.163d563e3ab83b6bfd01.svg",
     "static/media/icon-arrow-down.svg": "/ar-app/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
-    "main.85da9391.css.map": "/ar-app/static/css/main.85da9391.css.map",
-    "main.559758af.js.map": "/ar-app/static/js/main.559758af.js.map"
+    "main.3a0d2445.css.map": "/ar-app/static/css/main.3a0d2445.css.map",
+    "main.b712221c.js.map": "/ar-app/static/js/main.b712221c.js.map"
   },
   "entrypoints": [
-    "static/css/main.85da9391.css",
-    "static/js/main.559758af.js"
+    "static/css/main.3a0d2445.css",
+    "static/js/main.b712221c.js"
   ]
 }
