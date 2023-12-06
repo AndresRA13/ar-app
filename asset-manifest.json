@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/ar-app/static/css/main.4a34c679.css",
-    "main.js": "/ar-app/static/js/main.72562478.js",
+    "main.css": "/ar-app/static/css/main.0cde6bfe.css",
+    "main.js": "/ar-app/static/js/main.11cad125.js",
     "static/media/404.svg": "/ar-app/static/media/404.7a71fa7061d15b7ff20a584ffca78ce5.svg",
+    "static/media/peli.svg": "/ar-app/static/media/peli.6954b337a6614f51a1ffdaaae5e4c849.svg",
     "static/media/icons-google.svg": "/ar-app/static/media/icons-google.b40778ce9db962e9de29649090e3d307.svg",
     "index.html": "/ar-app/index.html",
     "static/media/icon-reminders.svg": "/ar-app/static/media/icon-reminders.d573f5028c4469edf76a0b57065af566.svg",
@@ -12,11 +13,11 @@
     "static/media/icon-close-menu.svg": "/ar-app/static/media/icon-close-menu.db81c104cee6fcd2a749.svg",
     "static/media/icon-menu.svg": "/ar-app/static/media/icon-menu.163d563e3ab83b6bfd01.svg",
     "static/media/icon-arrow-down.svg": "/ar-app/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
-    "main.4a34c679.css.map": "/ar-app/static/css/main.4a34c679.css.map",
-    "main.72562478.js.map": "/ar-app/static/js/main.72562478.js.map"
+    "main.0cde6bfe.css.map": "/ar-app/static/css/main.0cde6bfe.css.map",
+    "main.11cad125.js.map": "/ar-app/static/js/main.11cad125.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a34c679.css",
-    "static/js/main.72562478.js"
+    "static/css/main.0cde6bfe.css",
+    "static/js/main.11cad125.js"
   ]
 }
