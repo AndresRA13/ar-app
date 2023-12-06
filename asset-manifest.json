@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ar-app/static/css/main.ea91cd9e.css",
+    "main.css": "/ar-app/static/css/main.c2e3c5bc.css",
     "main.js": "/ar-app/static/js/main.1a24c095.js",
     "static/media/404.svg": "/ar-app/static/media/404.7a71fa7061d15b7ff20a584ffca78ce5.svg",
     "static/media/peli.svg": "/ar-app/static/media/peli.6954b337a6614f51a1ffdaaae5e4c849.svg",
@@ -13,11 +13,11 @@
     "static/media/icon-close-menu.svg": "/ar-app/static/media/icon-close-menu.db81c104cee6fcd2a749.svg",
     "static/media/icon-menu.svg": "/ar-app/static/media/icon-menu.163d563e3ab83b6bfd01.svg",
     "static/media/icon-arrow-down.svg": "/ar-app/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
-    "main.ea91cd9e.css.map": "/ar-app/static/css/main.ea91cd9e.css.map",
+    "main.c2e3c5bc.css.map": "/ar-app/static/css/main.c2e3c5bc.css.map",
     "main.1a24c095.js.map": "/ar-app/static/js/main.1a24c095.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea91cd9e.css",
+    "static/css/main.c2e3c5bc.css",
     "static/js/main.1a24c095.js"
   ]
 }
